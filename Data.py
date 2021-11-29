@@ -11,7 +11,7 @@ Welcome to {}
 I can upload any media to gofile.io and return the link.
 Just send me the media and you will get the link!
 
-By @StarkBots
+By @SerialCoing1
     """
 
     # Home Button
@@ -21,13 +21,13 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/SerialCoing1")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/SerialCoing1")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/SerialCoing1")],
     ]
 
     # Help Message
